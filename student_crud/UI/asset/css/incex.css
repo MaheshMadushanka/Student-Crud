@@ -1,0 +1,10 @@
+#loging-form {
+    background-color : #50c3d8;
+}
+#lbl {
+    color: #030a0c;
+    font-size: 19;
+}
+.btn-separate {
+    margin-right: 20px; /* Adjust the value to your preference */
+}
